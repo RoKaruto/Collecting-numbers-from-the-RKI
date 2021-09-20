@@ -12,4 +12,5 @@ This is my first _data mining_ project collecting the (then) daily published num
 #### DATA VISUALIZATION
 Using the **matplotlib.pyplot** module in **python**, a collection of simple line plots of the numbers in the json file will be created, the timeframe is choosable and a list of dates with no publication by the RKI will be attached to the plot.
 
-![Demo RKI plots](https://github.com/RoKaruto/BER-airport-DEP-ARR/blob/main/RKI%20plots%20example.png "RKI plots")
+![Demo RKI plots](https://github.com/RoKaruto/Collecting-numbers-from-the-RKI/blob/main/RKI%20plots%20example.png "RKI plots")
+                  
